@@ -1,4 +1,4 @@
-package com.websystique.hibernate.model;
+package com.hibernate.model;
 
 import java.io.Serializable;
 
